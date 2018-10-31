@@ -1,0 +1,14 @@
+{
+  "name": "terminal-command",
+  "version": "1.0.0",
+  "description": "terminal comands Bloc checkpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgheni Curdov",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
